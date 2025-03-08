@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Grr ne mogu da verujem da je ona kucka alisa mene ostavila, moj villan arc sada pocinje
+=======
+<<<<<<<>>>>>>> 
+ja sam bobster jebem zene ko lud
+>>>>>>> 5e469d3 (Bob je usao u novu fazu svog zivota)
